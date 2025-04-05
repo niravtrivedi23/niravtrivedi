@@ -9,6 +9,12 @@ I'm a **data Analyst** with a background in **Applied Statistics**. I enjoy expl
 - Building interactive **Power BI dashboards** 📊  
 - Learning more about **data automation & optimization**  
 
+## 📫 Connect with Me!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trivedi-nirav-a1760424b/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:niravtrivedi069@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/niravtrivedi23/niravtrivedi) 
+
+
 ## 🌟 Skills & Tools *(Still Learning & Improving!)*  
 - **Programming:**
   
@@ -19,9 +25,5 @@ I'm a **data Analyst** with a background in **Applied Statistics**. I enjoy expl
 - **Visualization:** Matplotlib, Seaborn, Power BI, Excel Charts  
 - **Concepts:** Data Cleaning, Analysis, Forecasting  
 
-## 📫 Connect with Me!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trivedi-nirav-a1760424b/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:niravtrivedi069@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/niravtrivedi23/niravtrivedi) 
 
 > 🚀 *Always eager to learn, experiment, and grow in the world of data!*  
