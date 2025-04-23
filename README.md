@@ -1,7 +1,7 @@
 # Hi, I'm Nirav Trivedi! 👋  
 
 ## 🚀 About Me  
-I'm a **data Analyst** with a background in **Applied Statistics**. I enjoy exploring **data analysis, SQL, Python, and Power BI** to uncover insights and make data-driven decisions.   
+📊 I'm a passionate data analyst with a background in **Applied Statistics**, turning raw data into business-ready insights. I work with **Power BI, SQL, Excel, and Python** to design dashboards, automate workflows, and uncover valuable patterns.
 
 ## 🔍 What I’m Working On  
 - Strengthening my **SQL & database management** skills 🗄️  
